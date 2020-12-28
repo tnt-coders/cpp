@@ -1,0 +1,15 @@
+[submodule "cpp-audio"]
+	path = cpp-audio
+	url = https://github.com/tnt-coders/cpp-audio.git
+[submodule "cpp-benchmark"]
+	path = cpp-benchmark
+	url = https://github.com/tnt-coders/cpp-benchmark.git
+[submodule "cpp-dsp"]
+	path = cpp-dsp
+	url = https://github.com/tnt-coders/cpp-dsp.git
+[submodule "cpp-math"]
+	path = cpp-math
+	url = https://github.com/tnt-coders/cpp-math.git
+[submodule "cpp-music"]
+	path = cpp-music
+	url = https://github.com/tnt-coders/cpp-music.git
