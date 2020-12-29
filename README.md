@@ -1,2 +1,2 @@
 # cpp
-Master repository for all TNT Coders C++ libraries
+Main repository for all TNT Coders C++ libraries
