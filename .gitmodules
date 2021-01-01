@@ -1,3 +1,6 @@
+[submodule "cmake-modules"]
+	path = cmake-modules
+	url = https://github.com/tnt-coders/cmake-modules.git
 [submodule "cpp-audio"]
 	path = cpp-audio
 	url = https://github.com/tnt-coders/cpp-audio.git
@@ -13,6 +16,3 @@
 [submodule "cpp-music"]
 	path = cpp-music
 	url = https://github.com/tnt-coders/cpp-music.git
-[submodule "cmake-modules"]
-	path = cmake-modules
-	url = https://github.com/tnt-coders/cmake-modules.git
