@@ -15,7 +15,7 @@ if (${DOXYGEN_FOUND})
     file(GLOB SUBPROJECTS cmake-* cpp-*)
 
     # Add target to generate doxygen documentation
-    doxygen_add_docs(doxygen
+    doxygen_add_docs(__generate_documentation
         ${PROJECT_SOURCE_DIR}/README.md
         ${SUBPROJECTS}
         COMMENT "Generating documentation..."
