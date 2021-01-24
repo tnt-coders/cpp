@@ -16,3 +16,6 @@
 [submodule "cpp-music"]
 	path = cpp-music
 	url = https://github.com/tnt-coders/cpp-music.git
+[submodule "cpp-xsd"]
+	path = cpp-xsd
+	url = C:\\Users\\tjwro\\Documents\\GitHub\\cpp\\cpp-xsd
